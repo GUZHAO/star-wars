@@ -1,0 +1,10 @@
+<section class="mat-typography hero-section">
+  <div class="hero-listing">
+    <ng-container *ngFor="let h of heroes$ | async">
+      <img class="avatar" (click)="onSelectHero(h)" [src]="h.avatar" alt="hero">
+    </ng-container>
+  </div>
+</section>
+<app-hero-details *ngIf="chosenHero" [hero]="chosenHero"
+                  (sideChange)="onChangeSide($event)"></app-hero-details>
+

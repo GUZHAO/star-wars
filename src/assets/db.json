@@ -1,0 +1,131 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "avatar": "https://www.sideshowtoy.com/wp-content/uploads/2017/07/star-wars-luke-skywalker-sixth-scale-hot-toys-feature-903109.jpg",
+      "class": "Jedi",
+      "weapon": "Lightsaber",
+      "friends": [
+        "R2-D2",
+        "Yoda",
+        "Leia",
+        "Han Solo"
+      ],
+      "bio": "Luke Skywalker was a Tatooine farmboy who rose from humble beginnings to become one of the greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo, Luke battled the evil Empire, discovered the truth of his parentage, and ended the tyranny of the Sith"
+    },
+    {
+      "id": 2,
+      "name": "Anakin Skywalker",
+      "avatar": "https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/10/anakin_main.jpg?itok=hnrw5KDs",
+      "class": "Jedi",
+      "weapon": "Lightsaber",
+      "friends": [
+        "R2-D2",
+        "Yoda",
+        "Obi Wan",
+        "C3PO"
+      ],
+      "bio": "Anakin Skywalker was a Human born to the slave Shmi Skywalker on Tatooine because of midi-chlorians, or better known as the Force. He was raised as a slave there until the age of 10. As a child, he was an exceptionally adept pilot and mechanic, because he was unconsciously in tune with the Force. At the age of 10, Skywalker was freed by Jedi Master Qui-Gon Jinn and Padme Amidala. While Jinn promised Skywalker that he would train him, he died in battle against Darth Maul. Obi-Wan Kenobi, Jinn's apprentice, took up the promise and trained Skywalker as his Padawan (Jedi apprentice). Because of the high midi-chlorian count in his blood, many on the Jedi Council believed that Skywalker is the Chosen One, who was destined to destroy the Sith Order and bring balance to the Force."
+    },
+    {
+      "id": 3,
+      "name": "Han Solo",
+      "avatar": "https://vignette.wikia.nocookie.net/starwars/images/0/01/Hansoloprofile.jpg/revision/latest?cb=20100129155042",
+      "class": "Smuggler",
+      "weapon": "Blaster",
+      "friends": [
+        "Luke",
+        "Lando",
+        "Chewie"
+      ],
+      "bio": "Han Solo, formerly known only as Han until being given the surname Solo by chief recruitment officer Drawd Munbrin, was a human male smuggler who became a leader in the Alliance to Restore the Republic and an instrumental figure in the defeat of the Galactic Empire during the Galactic Civil War. He hailed from Corellia and became a smuggler in the employ of Jabba the Hutt, even completing the Kessel Run in just twelve parsecs with his prized ship, the Millennium Falcon. He was the son-in-law of fallen Jedi Knight Anakin Skywalker and Senator Padmé Amidala, husband of Princess Leia Organa, brother-in-law of Jedi Master Luke Skywalker, father of Ben Solo, rivals and close friends with fellow smuggler Lando Calrissian, and best friends with the Wookiee Chewbacca, his trusted co-pilot who swore a life debt to the Corellian smuggler. Solo ran afoul of Jabba after ditching a shipment of spice to avoid trouble with the Empire, owing the Hutt a great deal of money as a result. His fortune seemed to have changed when he agreed to charter Luke Skywalker, Obi-Wan Kenobi, and the droids R2-D2 and C-3PO to Alderaan, but he became caught up in the rebellion against the Empire and, after helping Leia Organa escape from the Death Star, briefly fought in the Battle of Yavin, which allowed Skywalker to destroy the superweapon. Solo fought with the Rebellion for a number of years afterward, taking part in numerous operations and battles against the Empire."
+    },
+    {
+      "id": 4,
+      "name": "Chewbacca",
+      "avatar": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png/revision/latest?cb=20171231005834",
+      "class": "Wookie",
+      "weapon": "Blaster",
+      "friends": [
+        "R2-D2",
+        "C3PO",
+        "Luke",
+        "Han Solo"
+      ],
+      "bio": "Chewbacca, known affectionately to his friends as Chewie, was a Wookiee warrior, smuggler, and resistance fighter who fought in the Clone Wars, the Galactic Civil War, and the conflict between the First Order and the Resistance. He hailed from the planet Kashyyyk and became a Wookiee military leader. During the Clone Wars, he was captured by Trandoshan slavers and held captive on Wasskah, but he worked with a fellow captive, Jedi Commander Ahsoka Tano, to escape. He later commanded Wookiee forces during the Battle of Kashyyyk alongside the Grand Army of the Republic, led by Jedi Master Yoda. During the battle, one of the last ones of the war, Yoda's clone troopers received Order 66 from Supreme Chancellor Palpatine and, with the help of Chewbacca, Yoda escaped Kashyyyk and the destruction of the Jedi Order."
+    },
+    {
+      "id": 5,
+      "name": "Rey",
+      "avatar": "https://i1.wp.com/www.williamjacket.com/wp-content/uploads/2017/11/Rey-Star-Wars-Episode-8-Vest.jpg?fit=675%2C900&ssl=1",
+      "class": "Rebel",
+      "weapon": "Lightsaber",
+      "friends": [
+        "Finn",
+        "BB-8"
+      ],
+      "bio": "Rey, a Force-sensitive human female, was a scavenger who ultimately became a Jedi during the conflict between the First Order and the Resistance. She was born in 15 ABY, fifteen years after the Battle of Yavin, on the barren world of Jakku to junk traders who sold her to Unkar Plutt when Rey was still a child. Unaware of her latent connection to the Force, she supported herself by scavenging materials from the various wreckage sites of the Battle of Jakku. Rey learned to survive on her own, becoming a talented mechanic, pilot and combatant, although she remained hopeful that her family would eventually return."
+    }
+  ],
+  "villians": [
+    {
+      "id": 1,
+      "name": "Darth Vader",
+      "avatar": "https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Battlefront_Vader.jpg/revision/latest?cb=20151022170631",
+      "class": "Sith",
+      "weapon": "Lightsaber",
+      "henchmen": [
+        "Stormtrooper",
+        "Boba-Fett"
+      ],
+      "bio": "Vader served his Sith Master for decades; together they consolidated the Empire's control over the galaxy and simultaneously hunted the few surviving Jedi until the Order was all but extinct. Despite his involvement in the Galactic Civil War against the Alliance to Restore the Republic, Vader failed to prevent the destruction of the Death Star. Upon learning that the pilot responsible for destroying the superweapon was his son, Luke Skywalker—the child he assumed had died with Amidala—Vader formulated a plot to overthrow the Emperor by turning the nascent Jedi to the dark side. Following the Battle of Hoth, the two confronted each other on Bespin with Vader emerging as the victor of their duel. He beseeched Skywalker to rule the galaxy with him as a family, but the young Jedi rejected his father's offer and rejoined his allies in their fight against the Empire."
+    },
+    {
+      "id": 2,
+      "name": "Darth Maul",
+      "avatar": "https://cdn.vox-cdn.com/thumbor/Feg6tZcJdfmfPn01gNS8RUMNDXk=/0x0:678x379/1200x800/filters:focal(312x45:420x153)/cdn.vox-cdn.com/uploads/chorus_image/image/55716555/Screen_Shot_2015-08-17_at_3.05.50_PM.0.0.png",
+      "class": "Sith",
+      "weapon": "Lightsaber",
+      "henchmen": [],
+      "bio": "Darth Maul was a male Dathomirian Zabrak Dark Lord of the Sith who lived during the waning years of the Galactic Republic. Originally a Dathomiri Nightbrother born on Iridonia and known only as Maul, the infant Maul was given by his Nightsister mother to the Sith Lord Darth Sidious, who trained him in the ways of the dark side of the Force as his secret apprentice on a secret Mustafar training facility, along with the help of a split personality droid. Maul became a master of lightsaber combat and Teräs Käsi, wielding a red-bladed saberstaff against any adversary. Though well trained in the ways of the Sith and a Sith assassin rather than a full apprentice, Maul was technically a violation of the Rule of Two because his own Master was at the time apprenticed to another, the Muun Sith Lord Darth Plagueis. Plagueis, however, was fully aware of Maul's existence, and supported Sidious's decision to train him. The primary reason for Plagueis's support, despite the violation of the Rule of Two, was that Maul was trained to be expendable. As an assassin, he could perform high priority, boots-on-the-ground missions for the Sith without running the risk of exposing either Plagueis or Sidious should he fail."
+    },
+    {
+      "id": 3,
+      "name": "Count Dooku",
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/b/bd/Count_Dooku.png",
+      "class": "Sith",
+      "weapon": "Lightsaber",
+      "henchmen": [
+        "Super Battle Droid",
+        "Jango-Fett",
+        "Destroyer Droid",
+        "Battle Droid",
+        "General Grievous"
+      ],
+      "bio": "Dooku, a Force-sensitive human male, was a Sith Lord who led the Confederacy of Independent Systems as Head of State during the Clone Wars. Although he was once a Jedi Master, Dooku left the Jedi Order and the Galactic Republic after growing disillusioned with the corruption in the government. Turning from the light he once served as a Jedi, Dooku joined the dark side of the Force and became the apprentice of Darth Sidious, the Dark Lord of the Sith, taking on the name Darth Tyranus and reclaiming his title as the Count of Serenno. With his master, who was secretly Supreme Chancellor Sheev Palpatine, Dooku conspired to overthrow both the Republic and the Jedi so that the Sith could reclaim their former dominance. To this end, he oversaw a growing secessionist movement that ultimately resulted in the formation of the Confederacy of Independent Systems. In addition to rallying rebellious star systems to the Separatist cause, Dooku was involved in the creation of the clone troopers of the Grand Army of the Republic, having supplied the Kaminoans with the clone template, Jango Fett, as well as the inhibitor chip containing Clone Protocol 66. As a result of Dooku and Sidious's machinations, the galaxy became engulfed by the Clone Wars twenty-two years before the Battle of Yavin."
+    },
+    {
+      "id": 4,
+      "name": "Darth Sidious",
+      "avatar": "https://i.pinimg.com/736x/38/ba/c3/38bac3f1f2915dbf761b498c2747f175.jpg",
+      "class": "Sith",
+      "weapon": "Lightsaber",
+      "henchmen": [
+        "Count Dooku",
+        "Darth Vader",
+        "Darth Maul"
+      ],
+      "bio": "Darth Sidious, a Force-sensitive human male, was the Dark Lord of the Sith who founded the Galactic Empire after toppling its predecessor, the Galactic Republic from within. Prior to his term as Supreme Chancellor and subsequent reign as the Galactic Emperor, Sidious was born approximately eighty-four years before the Battle of Yavin and given the name Sheev Palpatine during the Age of the Republic. A native of the Mid-Rim planet Naboo, Palpatine pursued a career in politics and eventually became his homeworld's representative in the Galactic Senate. Although he cultivated the persona of an honest and trustworthy public servant, Senator Palpatine was an ambitious Sith Lord who learned the ways of the dark side of the Force during his secret apprenticeship under Darth Plagueis. Following in a lineage of Dark Lords that began with Darth Bane, who reformed the Sith a millennium prior to the Fall of the Republic, Sidious spent years conspiring to restore his Order to galactic dominance. After killing his Sith Master, he trained an apprentice of his own, the Dathomirian assassin Darth Maul in accordance with the Rule of Two—Bane's decree that there should only be two Sith Lords at any given time."
+    },
+    {
+      "id": 5,
+      "name": "Boba Fett",
+      "avatar": "http://screencrush.com/files/2017/09/boba-fett.jpg?w=980&q=75",
+      "class": "Bounty Hunter",
+      "weapon": "Blaster",
+      "henchmen": [],
+      "bio": "Boba Fett was a human male bounty hunter and the genetic clone of the infamous bounty hunter Jango Fett. Boba was created by the cloners on Kamino and was physically identical to the clone troopers created for the Grand Army of the Republic, though Boba was unaltered and did not grow at the same accelerated rate as the other clones. Raised as Jango's son, Boba learned the combat skills necessary to one day become a bounty hunter in his own right."
+    }
+  ]
+}

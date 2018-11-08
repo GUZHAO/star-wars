@@ -1,0 +1,26 @@
+<section class="mat-typography">
+  <mat-toolbar color="primary">
+    <button mat-button class="side-nav-trigger" (click)="snav.toggle()">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <h1 id="app-title">
+      Angular Workshop
+    </h1>
+  </mat-toolbar>
+
+  <mat-sidenav-container>
+    <mat-sidenav id="sidenav" #snav mode="side">
+      <mat-nav-list id="sidenav-list">
+        <ng-container *ngFor="let item of navLinks">
+          <a mat-list-item routerLink="." class="sidenav-item" >
+            {{item.title}}
+          </a>
+        </ng-container>
+      </mat-nav-list>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+      <ng-content></ng-content>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+</section>

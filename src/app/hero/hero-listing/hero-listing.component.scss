@@ -1,0 +1,20 @@
+.hero-listing {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 0 10px;
+}
+
+.hero-section {
+  display: flex;
+  flex-direction: row;
+}
+
+app-hero-details {
+  padding: 0 40px;
+}

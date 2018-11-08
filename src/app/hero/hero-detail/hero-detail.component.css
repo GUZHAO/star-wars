@@ -1,0 +1,19 @@
+.npc-card {
+  max-width: 600px; }
+  .npc-card img {
+    max-height: 400px;
+    max-width: 400px; }
+  .npc-card mat-card-content {
+    flex: 1 1 auto; }
+    .npc-card mat-card-content p {
+      word-break: break-word;
+      overflow-wrap: break-word; }
+  .npc-card mat-card-actions .light-side-btn {
+    background-color: white; }
+  .npc-card mat-card-actions .light-side-btn:hover, .npc-card mat-card-actions .dark-side-btn:hover {
+    color: green; }
+  .npc-card mat-card-actions .dark-side-btn {
+    background-color: black;
+    color: white; }
+
+/*# sourceMappingURL=hero-detail.component.css.map */

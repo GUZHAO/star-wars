@@ -1,0 +1,19 @@
+<section class="mat-typography">
+  <mat-card class="npc-card">
+    <mat-card-header>
+      <img mat-card-avatar class="avatar" [src]="hero?.avatar"/>
+      <mat-card-title>{{ hero?.name }}</mat-card-title>
+      <mat-card-subtitle>{{ hero?.class }}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image [src]="hero?.avatar" alt="img of npc">
+    <mat-card-content>
+      <p>
+        {{ hero?.bio }}
+      </p>
+    </mat-card-content>
+    <mat-card-actions>
+      <button mat-button class="light-side-btn" (click)="onJoin('light')">LIGHT</button>
+      <button mat-button class="dark-side-btn" (click)="onJoin('dark')">DARK</button>
+    </mat-card-actions>
+  </mat-card>
+</section>
